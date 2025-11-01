@@ -416,9 +416,9 @@ In this task, you'll create a hunting query, and create a Livestream.
     
     1. On the *Review and create* tab, select the **Save** button to create and save the new Scheduled Analytics rule.--->
 
-### Task 3: Create a Data lake KQL job
+### Task 3: Create a data lake KQL job
 
-In this task, you'll create a Data lake KQL job to look for a C2 attack.
+In this task, you'll create a data lake KQL job to look for a C2 attack.
 
 >**Note:**: The *KQL job* feature allows you to run KQL queries on your data lake and create a job that will continuously monitor for specific patterns or anomalies.
 
@@ -432,7 +432,7 @@ In this task, you'll create a Data lake KQL job to look for a C2 attack.
 
 1. Enter a name for your job in the *Job name* field.
 
-1. In the *Destination table in Analytics tier* section, slect the **defender** workspace from the *Destination workspace* drop-down menu.
+1. In the *Destination table in Analytics tier* section, select the **defender** workspace from the *Destination workspace* drop-down menu.
 
     >**Note:** The *_KQL_CL* is the custom log default appendice.
 
